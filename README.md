@@ -1,3 +1,3 @@
 # stock-widget
-[website](https://hasindusithmin.github.io/stock-widget/).
+[website](https://udaraayeshan.github.io/company-rates/).
 
